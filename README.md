@@ -8,6 +8,15 @@ All source code can be modified by you, and please leave a GitHub link when uplo
 #This timer is a program I created to reduce my brother's computer use.
 #이 타이머는 저희 동생의 컴퓨터 사용을 줄이기 위해 만든 프로그램입니다.
 
+Libraries used -
+사용한 라이브러리
+tkinter
+os
+threading
+time
+pyttsx3
+subprocess
+
 Features -
 1. Limit computer usage time with a strict timer
 2. Visual display of time remaining right after playing
