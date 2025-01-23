@@ -22,6 +22,9 @@ Features -
 
 How to Run file? - 어떻게 파일을 실행시키나요?
 
+**Unzip the exe file to run it!**
+**Unzip the exe file to run it!**
+
 This program was written in Python and consists of a main timer program and a program that activates Wi-Fi upon restart.
 이 프로그램은 파이썬으로 짜여졌으며, 메인 타이머 프로그램과 재기동시 와이파이를 활성화시키는 프로그램으로 되어있습니다.
 
